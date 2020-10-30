@@ -284,7 +284,7 @@ function reveal() {
   document.querySelector('.merrywrap ').style.backgroundColor = 'transparent';
   var meta = document.createElement('meta');
   meta.httpEquiv = "refresh";
-  meta.content = "20; url = https://www.facebook.com/ecapteam/";
+  meta.content = "15; url = https://www.facebook.com/ecapteam/";
   document.getElementsByTagName('head')[0].appendChild(meta);
   
 
